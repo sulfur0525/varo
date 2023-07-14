@@ -109,7 +109,7 @@ li{ list-style-type: none; }
 	height: 400px;
     font-size: 25px;
     font-weight: bold;
-    background-image: url(/varo/img/main_img.png);
+    background-image: url(img/main_img.png);
     background-position: center;
     background-size: cover;
     color: white;
@@ -281,7 +281,7 @@ li{ list-style-type: none; }
 }
 
 .conBox9{
-	background-image: url("/varo/img/consulting.png");
+	background-image: url("img/consulting.png");
 	background-position: center;
     background-size: cover;
     height: 500px;
